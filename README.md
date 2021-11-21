@@ -1,1 +1,5 @@
-Tensorflow with keras is required for use.
+List of libraries required for use:
+Tensorflow with keras 
+numpy
+idx2numpy
+cv2
