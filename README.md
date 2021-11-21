@@ -1,2 +1,1 @@
-# project_school2021
- 
+Tensorflow with keras is required for use.
